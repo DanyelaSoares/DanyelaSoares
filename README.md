@@ -26,11 +26,11 @@
 
 ## Sobre mim:
 
-Durante minha trajetória profissional, sempre tive um grande interesse por TECNOLOGIA e INOVAÇÃO, o que me motivou a fazer uma transição de carreira depois de 15 anos na área de Administração para a área de Análise de Sistemas. 
-<br>Para facilitar essa transição, estou investindo em minha educação e capacitação através do curso de graduação em Análise de Sistemas e no curso Full Stack Developer Jr oferecido pela +PraTi e Codifica.<br>
-Minhas habilidades em comunicação, negociação, organização e melhoria de processos adquiridas nas experiências anteriores são altamente transferíveis para ingressar na carreira de Desenvolvedora Full Stack. 
-<br>Estou entusiasmada em aplicar minhas habilidades e contribuir para a otimização e inovação dos processos organizacionais. Acredito que minhas experiências passadas, combinada com minhas novas competências, permitirá que eu agregue valor significativo a qualquer equipe.
-<br><br>
-Acesse abaixo o meu teste de perfil comportamental feito no 16personalities.com/br: <br>
-https://www.16personalities.com/br/personalidade-entj"
-<br/>
+💻 Graduada em Administração e também Análise e Desenvolvimento de Sistemas na UNIASSELVI, apaixonada por tecnologia e desenvolvimento web.
+📚 Atualmente, estou concluindo um curso de Fullstack Development pela Mais Pra Ti e CodificaEdu, onde tenho explorado React, Node.js e MongoDB.
+🚀 Gosto de trabalhar em projetos desafiadores, como aplicações responsivas, dashboards de gerenciamento e sistemas orientados a objetos.
+🎨 Tenho trqabalhado para criar interfaces modernas e responsivas usando HTML, CSS (Bootstrap/Tailwind) e JavaScript.
+🌟 Meus projetos incluem desde listas de tarefas até aplicativos interativos e repositórios de estudo para TCCs e aplicações em nuvem.
+
+📩 Fique à vontade para entrar em contato ou dar uma olhada nos meus projetos! 😊
+
