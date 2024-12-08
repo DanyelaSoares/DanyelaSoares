@@ -29,7 +29,7 @@
 💻 Graduada em Administração e também Análise e Desenvolvimento de Sistemas na UNIASSELVI, apaixonada por tecnologia e desenvolvimento web.
 📚 Atualmente, estou concluindo um curso de Fullstack Development pela Mais Pra Ti e CodificaEdu, onde tenho explorado React, Node.js e MongoDB.
 🚀 Gosto de trabalhar em projetos desafiadores, como aplicações responsivas, dashboards de gerenciamento e sistemas orientados a objetos.
-🎨 Tenho trqabalhado para criar interfaces modernas e responsivas usando HTML, CSS (Bootstrap/Tailwind) e JavaScript.
+🎨 Tenho trabalhado para criar interfaces modernas e responsivas usando HTML, CSS (Bootstrap/Tailwind) e JavaScript.
 🌟 Meus projetos incluem desde listas de tarefas até aplicativos interativos e repositórios de estudo para TCCs e aplicações em nuvem.
 
 📩 Fique à vontade para entrar em contato ou dar uma olhada nos meus projetos! 😊
