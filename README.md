@@ -26,11 +26,18 @@
 
 ## Sobre mim:
 
-💻 Graduada em Administração e também Análise e Desenvolvimento de Sistemas na UNIASSELVI, apaixonada por tecnologia e desenvolvimento web.
-📚 Atualmente, estou concluindo um curso de Fullstack Development pela Mais Pra Ti e CodificaEdu, onde tenho explorado React, Node.js e MongoDB.
-🚀 Gosto de trabalhar em projetos desafiadores, como aplicações responsivas, dashboards de gerenciamento e sistemas orientados a objetos.
-🎨 Tenho trabalhado para criar interfaces modernas e responsivas usando HTML, CSS (Bootstrap/Tailwind) e JavaScript.
-🌟 Meus projetos incluem desde listas de tarefas até aplicativos interativos e repositórios de estudo para TCCs e aplicações em nuvem.
+💻 Fullstack Dev Júnior | Java (Spring Boot) • Golang • React
+
+- APIs REST com Go
+- Autenticação com JWT/OAuth2
+- Testes automatizados (unitários/integração)
+- CI/CD com GitHub Actions
+- Docker e deploy com Render/Fly.io
+- PostgreSQL, MongoDB
+
+🎓 Graduação em Administração e Análise e Desenvolvimento de Sistemas
+
+🚀 Focado no aprendizado contínuo e em projetos desafiadores para evoluir como dev.
 
 📩 Fique à vontade para entrar em contato ou dar uma olhada nos meus projetos! 😊
 
