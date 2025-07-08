@@ -26,18 +26,28 @@
 
 ## Sobre mim:
 
-💻 Fullstack Dev Júnior | Java (Spring Boot) • Golang • React
+💻 Fullstack Developer Júnior
+Linguagens: Java (Spring Boot) • Go • C#
+Frameworks e bibliotecas: React (JavaScript)
 
-- APIs REST com Go
-- Autenticação com JWT/OAuth2
-- Testes automatizados (unitários/integração)
-- CI/CD com GitHub Actions
-- Docker e deploy com Render/Fly.io
-- PostgreSQL, MongoDB
+✨ Experiência e habilidades:
 
-🎓 Graduação em Administração e Análise e Desenvolvimento de Sistemas
+Desenvolvimento de APIs REST com Go e Java
 
-🚀 Focado no aprendizado contínuo e em projetos desafiadores para evoluir como dev.
+Autenticação com JWT e OAuth2
 
-📩 Fique à vontade para entrar em contato ou dar uma olhada nos meus projetos! 😊
+Testes automatizados (unitários e de integração)
+
+CI/CD com GitHub Actions
+
+Docker, deploy em Render e Fly.io
+
+Banco de dados: PostgreSQL e MongoDB
+
+🎓 Formação:
+Graduação em Administração e Análise e Desenvolvimento de Sistemas
+
+🚀 Apaixonada por aprendizado contínuo e projetos desafiadores para crescer como desenvolvedora.
+
+📩 Vamos nos conectar! Confira meus projetos ou me envie uma mensagem.
 
