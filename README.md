@@ -31,3 +31,17 @@ Atuar em **Análise de Requisitos, Qualidade de Software e Sistemas**, contribui
 - Interesse em **backend, lógica de funcionamento e integrações** (Java | SQL | REST APIs)  
 - Experiência em **organização, padronização e validação de informações**  
 - Aprendizado contínuo com ênfase em **prática e construção de projetos**
+
+---
+
+## 📝 Escritos sobre Tecnologia e Aprendizado
+
+Algumas reflexões sobre engenharia de software, requisitos e desenvolvimento técnico:
+
+- **Análise de Requisitos: muito além de uma lista**  
+  Reflexão sobre entendimento funcional, comunicação e estruturação de sistemas  
+  👉 [Link do artigo](https://www.linkedin.com/pulse/an%C3%A1lise-de-requisitos-muito-al%C3%A9m-uma-lista-daniela-soares-da-silva-hbltf/)
+
+- **Uma das maiores armadilhas ao estudar programação**  
+  Sobre consumo de conteúdo vs prática deliberada  
+  👉 [Link do artigo](https://www.linkedin.com/pulse/armadilha-de-estudar-tecnologia-sem-dire%25C3%25A7%25C3%25A3o-clara-soares-da-silva-mftxf/)
