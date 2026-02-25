@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielasoares3/)
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniela.soares.contact@gmail.com)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DanyelaSoares&theme=dracula)
+![GitHub Streak](https://streak-stats.demolab.com?user=DanyelaSoares&theme=dracula)
 
 ---
 
