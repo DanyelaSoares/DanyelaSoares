@@ -37,9 +37,9 @@
 
 Profissional em transição para a área de Tecnologia, com foco em **Qualidade de Software (QA), Análise de Requisitos e validação de sistemas**.
 
-Busco aplicar conhecimentos técnicos e experiência com análise de dados, processos e regras de negócio na construção e validação de soluções de software.
+Busco aplicar conhecimentos técnicos e experiência com **dados, processos e regras de negócio** na construção, análise e validação de soluções de software.
 
-Tenho interesse em **testes de software, testes de APIs REST, SQL, análise de requisitos, desenvolvimento de sistemas e análise de dados**, mantendo foco em aprendizado contínuo e aplicação prática.
+Tenho interesse em **testes de software, testes de APIs REST, SQL, análise de requisitos, desenvolvimento de sistemas e análise de dados**, com foco em aprendizado contínuo e aplicação prática.
 
 ---
 
@@ -49,10 +49,10 @@ Tenho interesse em **testes de software, testes de APIs REST, SQL, análise de r
 - 🧪 Prática com **testes de APIs REST e Postman**
 - 🗄️ Conhecimentos em **SQL e MySQL**
 - ☕ Desenvolvimento de aplicações utilizando **Java e Spring Boot**
-- 🔗 Experiência prática com **APIs REST e autenticação**
-- 📊 Desenvolvimento de projetos utilizando **Excel para análise de dados e indicadores**
-- 📋 Interesse em **regras de negócio, validação e documentação**
-- 🚀 Aprendizado baseado em projetos práticos e evolução contínua
+- 🔗 Prática com **APIs REST e autenticação**
+- 📊 Projetos de **Excel aplicados à análise de dados, indicadores e negócios**
+- 📋 Interesse em **regras de negócio, validação, documentação e melhoria de processos**
+- 🚀 Aprendizado baseado em **projetos práticos e evolução contínua**
 
 ---
 
@@ -60,14 +60,16 @@ Tenho interesse em **testes de software, testes de APIs REST, SQL, análise de r
 
 ### 🔐 SmartTasks
 
-Sistema de gerenciamento de tarefas desenvolvido para prática de desenvolvimento backend, frontend e integração entre aplicações.
+Sistema de gerenciamento de tarefas desenvolvido para prática de desenvolvimento de sistemas, integração entre aplicações e implementação de regras de negócio.
 
 **Tecnologias:**
+
 Java | Spring Boot | MySQL | JWT | REST API | React
 
 **Foco do projeto:**
+
 - Autenticação e autorização
-- APIs REST
+- Desenvolvimento de APIs REST
 - Persistência de dados
 - Regras de negócio
 - Integração entre frontend e backend
@@ -79,9 +81,11 @@ Java | Spring Boot | MySQL | JWT | REST API | React
 Projeto dedicado à **qualidade e testes de API** do sistema SmartTasks.
 
 **Tecnologias e ferramentas:**
+
 Postman | REST API | Testes funcionais | Casos de teste
 
 **Práticas realizadas:**
+
 - Testes de endpoints
 - Validação de respostas HTTP
 - Testes de autenticação
@@ -95,6 +99,7 @@ Postman | REST API | Testes funcionais | Casos de teste
 Projeto desenvolvido para prática de **Excel aplicado à análise de dados e negócios**, utilizando uma base fictícia de vendas de um e-commerce.
 
 **Práticas utilizadas:**
+
 - Fórmulas e funções
 - SOMASES
 - CONT.SES
@@ -106,7 +111,30 @@ Projeto desenvolvido para prática de **Excel aplicado à análise de dados e ne
 - Dashboard
 - Análise de faturamento, custos e lucro
 
-> Projeto em evolução, com aprofundamento em Excel, Power Query e ferramentas de análise de dados.
+> Projeto em evolução, com aprofundamento em Excel, Power Query e análise de dados.
+
+---
+
+### 📈 Dashboard de Performance Operacional — Excel
+
+Projeto desenvolvido para simular o acompanhamento de **indicadores operacionais e desempenho de processos**.
+
+**Práticas utilizadas:**
+
+- Criação de KPIs
+- Análise de produtividade
+- Controle de prazos
+- Análise de SLA
+- Indicadores de satisfação
+- CONT.SE e CONT.SES
+- SOMASES
+- MÉDIASES
+- PROCX
+- Funções de data
+- Gráficos
+- Dashboard
+
+> Projeto em evolução, com aprofundamento em Tabelas Dinâmicas, Segmentação de Dados e Power Query.
 
 ---
 
@@ -142,4 +170,4 @@ Reflexão sobre consumo de conteúdo versus prática no processo de aprendizagem
 
 ## 🚀 Em constante evolução
 
-Meu GitHub reúne projetos desenvolvidos durante minha transição para Tecnologia, com foco em **prática, aprendizado contínuo e construção de soluções reais**.
+Meu GitHub reúne projetos desenvolvidos durante minha transição para Tecnologia, com foco em **prática, aprendizado contínuo, qualidade e construção de soluções aplicadas a problemas reais de negócio**.
