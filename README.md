@@ -140,15 +140,27 @@ Projeto desenvolvido para simular o acompanhamento de **indicadores operacionais
 
 ## 📝 Escritos sobre Tecnologia e Aprendizado
 
-### Análise de Requisitos: muito além de uma lista
+### 🔎 Um dado pode estar correto e, ainda assim, estar errado?
 
-Reflexão sobre entendimento funcional, comunicação e organização de sistemas.
+Reflexão sobre **qualidade de dados, contexto e regras de negócio**, mostrando por que validar uma informação vai além de verificar se um campo está preenchido ou possui um formato correto.
+
+👉 [Ler artigo](https://www.linkedin.com/pulse/um-dado-pode-estar-correto-e-ainda-assim-errado-soares-da-silva-gmq4f/)
+
+### 💬 Projetos de software raramente falham por tecnologia — o problema costuma estar na comunicação
+
+Reflexão sobre **comunicação, alinhamento de expectativas e análise de requisitos** como fatores fundamentais para reduzir falhas e retrabalho em projetos de software.
+
+👉 [Ler artigo](https://www.linkedin.com/pulse/projetos-de-software-raramente-falham-por-tecnologia-soares-da-silva-rgo8f/)
+
+### 📋 Análise de Requisitos: muito além de uma lista de funcionalidades
+
+Reflexão sobre **entendimento funcional, comunicação, necessidades dos usuários e transformação das regras de negócio em requisitos claros**.
 
 👉 [Ler artigo](https://www.linkedin.com/pulse/an%C3%A1lise-de-requisitos-muito-al%C3%A9m-uma-lista-daniela-soares-da-silva-hbltf/)
 
-### Uma das maiores armadilhas ao estudar programação
+### 📚 Uma das maiores armadilhas ao estudar programação
 
-Reflexão sobre consumo de conteúdo versus prática no processo de aprendizagem.
+Reflexão sobre a diferença entre **consumir conteúdo e desenvolver conhecimento por meio da prática**, especialmente durante uma transição para a área de tecnologia.
 
 👉 [Ler artigo](https://www.linkedin.com/pulse/armadilha-de-estudar-tecnologia-sem-dire%25C3%25A7%C3%A3o-clara-soares-da-silva-mftxf/)
 
