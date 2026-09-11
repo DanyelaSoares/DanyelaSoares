@@ -164,6 +164,12 @@ Reflexão sobre a diferença entre **consumir conteúdo e desenvolver conhecimen
 
 👉 [Ler artigo](https://www.linkedin.com/pulse/armadilha-de-estudar-tecnologia-sem-dire%25C3%25A7%C3%A3o-clara-soares-da-silva-mftxf/)
 
+### 🧪 Como descobri que gosto de testar software
+
+Relato sobre minha transição para QA, experiências com qualidade da informação, investigação de inconsistências, testes de software, APIs e uso de IA em sistemas.
+
+👉 [Ler artigo](https://www.linkedin.com/pulse/o-que-me-fez-perceber-gosto-de-testes-software-soares-da-silva-1ajsf/)
+
 ---
 
 ## 📚 Atualmente estudando
