@@ -37,7 +37,7 @@
 
 Profissional em transição para a área de Tecnologia, com foco em **Qualidade de Software (QA), Análise de Requisitos e validação de sistemas**.
 
-Busco aplicar conhecimentos técnicos e experiência com **dados, processos e regras de negócio** na construção, análise e validação de soluções de software.
+Busco aplicar conhecimentos técnicos e experiência com **dados, processos e regras de negócio** no desenvolvimento, análise e validação de soluções de software.
 
 Tenho interesse em **testes de software, testes de APIs REST, SQL, análise de requisitos, desenvolvimento de sistemas e análise de dados**, com foco em aprendizado contínuo e aplicação prática.
 
