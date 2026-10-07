@@ -1,4 +1,4 @@
-## Olá, eu sou Daniela Soares 👋🏼
+# 👋🏼 Olá, eu sou Daniela Soares!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielasoares3/)
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniela.soares.contact@gmail.com)
@@ -7,7 +7,7 @@
 
 ## 💻 Tecnologias e Ferramentas
 
-<div style="display: inline_block"><br>  
+<div style="display: inline_block"><br>
 
 <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
@@ -19,6 +19,8 @@
 
 <img align="center" alt="REST APIs" src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge"/>
 
+<img align="center" alt="JWT" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+
 <img align="center" alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
 <img align="center" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -27,17 +29,19 @@
 
 <img align="center" alt="Excel" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 
-</div><br/>
+</div>
 
 ---
 
 ## 🎯 Objetivo Profissional
 
-Profissional em transição para a área de Tecnologia, com foco em **Qualidade de Software (QA), Análise de Requisitos e validação de sistemas**.
+Profissional em transição e desenvolvimento de carreira na área de **Tecnologia**, com foco em **Qualidade de Software (QA), Análise de Requisitos e validação de sistemas**.
 
-Busco aplicar conhecimentos técnicos e experiência com **dados, processos e regras de negócio** no desenvolvimento, análise e validação de soluções de software.
+Busco aplicar conhecimentos técnicos e minha experiência com **dados, processos, validação e regras de negócio** na análise, desenvolvimento e melhoria de soluções de software.
 
-Tenho interesse em **testes de software, testes de APIs REST, SQL, análise de requisitos, desenvolvimento de sistemas e análise de dados**, com foco em aprendizado contínuo e aplicação prática.
+Tenho conhecimentos em **testes de software, testes de APIs REST, SQL, análise de requisitos e desenvolvimento de sistemas**, além de experiência prática com **análise de dados**, buscando evolução contínua por meio de projetos práticos e aplicação dos conhecimentos.
+
+Meu objetivo é unir **conhecimento técnico, visão de negócio e capacidade de identificar inconsistências** para contribuir na construção de sistemas mais confiáveis e eficientes.
 
 ---
 
@@ -47,96 +51,79 @@ Tenho interesse em **testes de software, testes de APIs REST, SQL, análise de r
 - 🧪 Prática com **testes de APIs REST e Postman**
 - 🗄️ Conhecimentos em **SQL e MySQL**
 - ☕ Desenvolvimento de aplicações utilizando **Java e Spring Boot**
-- 🔗 Prática com **APIs REST e autenticação**
-- 📊 Projetos de **Excel aplicados à análise de dados, indicadores e negócios**
+- 🔗 Prática com **APIs REST, autenticação e integração entre sistemas**
+- 📊 Excel aplicado à **análise de dados, indicadores e negócios**
 - 📋 Interesse em **regras de negócio, validação, documentação e melhoria de processos**
+- 🔍 Interesse em **identificação de inconsistências e análise de cenários**
 - 🚀 Aprendizado baseado em **projetos práticos e evolução contínua**
 
 ---
 
-## 🚀 Projetos em Destaque
+# 🚀 Projetos em Destaque
 
-### 🔐 SmartTasks
+## 💇‍♀️ Beleza Fácil — Em Desenvolvimento
 
-Sistema de gerenciamento de tarefas desenvolvido para prática de desenvolvimento de sistemas, integração entre aplicações e implementação de regras de negócio.
+Sistema de agendamento para salões de beleza, desenvolvido como projeto prático para aplicação de conceitos de **desenvolvimento de sistemas, análise de requisitos, APIs REST, banco de dados, autenticação e regras de negócio**.
 
-**Tecnologias:**
+### 🎯 Objetivo
 
-Java | Spring Boot | MySQL | JWT | REST API | React
+Permitir que clientes consultem serviços, escolham profissionais, datas e horários e realizem agendamentos, enquanto o estabelecimento pode gerenciar sua agenda, profissionais, serviços e atendimentos.
 
-**Foco do projeto:**
+### 🛠️ Tecnologias
 
-- Autenticação e autorização
-- Desenvolvimento de APIs REST
-- Persistência de dados
+`Java` · `Spring Boot` · `Spring Security` · `JWT` · `JPA/Hibernate` · `MySQL` · `React` · `TypeScript` · `Vite`
+
+### 🧪 Testes
+
+`JUnit` · `Mockito` · `Postman`
+
+### 📌 Conceitos trabalhados
+
+- Análise e especificação de requisitos
 - Regras de negócio
-- Integração entre frontend e backend
+- Modelagem de banco de dados
+- Desenvolvimento de APIs REST
+- Autenticação e autorização
+- Controle de acesso por função
+- Controle de disponibilidade de horários
+- Gerenciamento de agendamentos
+- Validação de dados
+- Integração entre sistemas
+- Testes de API e testes automatizados
+- Documentação técnica
+
+> 🚧 Projeto em desenvolvimento, utilizado como laboratório prático para evolução em **desenvolvimento de sistemas, análise de requisitos e qualidade de software**.
+
+👉 [📂 Ver projeto no GitHub](https://github.com/DanyelaSoares/belezafacil)
 
 ---
 
-### 🧪 SmartTasks Tests
+## 🧪 SmartTasks Tests
 
-Projeto dedicado à **qualidade e testes de API** do sistema SmartTasks.
+Projeto dedicado à **qualidade e testes do sistema SmartTasks**, com foco em testes manuais e de API, validação de regras de negócio e autenticação.
 
-**Tecnologias e ferramentas:**
+### 🛠️ Tecnologias e ferramentas
 
-Postman | REST API | Testes funcionais | Casos de teste
+`Postman` · `REST API` · `Testes funcionais` · `Casos de teste`
 
-**Práticas realizadas:**
+### 📌 Práticas realizadas
 
 - Testes de endpoints
 - Validação de respostas HTTP
 - Testes de autenticação
 - Cenários positivos e negativos
+- Validação de regras de negócio
+- Validação do comportamento esperado
+- Identificação de possíveis inconsistências
 - Documentação de casos de teste
 
----
-
-### 📊 Análise de Vendas e E-commerce — Excel
-
-Projeto desenvolvido para prática de **Excel aplicado à análise de dados e negócios**, utilizando uma base fictícia de vendas de um e-commerce.
-
-**Práticas utilizadas:**
-
-- Fórmulas e funções
-- SOMASES
-- CONT.SES
-- PROCX
-- SE e SEERRO
-- Tabelas estruturadas
-- Indicadores de desempenho (KPIs)
-- Gráficos
-- Dashboard
-- Análise de faturamento, custos e lucro
-
-> Projeto em evolução, com aprofundamento em Excel, Power Query e análise de dados.
+👉 [📂 Ver projeto no GitHub](https://github.com/DanyelaSoares/smarttasks-tests)
 
 ---
 
-### 📈 Dashboard de Performance Operacional — Excel
+# 📝 Escritos sobre Tecnologia e Aprendizado
 
-Projeto desenvolvido para simular o acompanhamento de **indicadores operacionais e desempenho de processos**.
-
-**Práticas utilizadas:**
-
-- Criação de KPIs
-- Análise de produtividade
-- Controle de prazos
-- Análise de SLA
-- Indicadores de satisfação
-- CONT.SE e CONT.SES
-- SOMASES
-- MÉDIASES
-- PROCX
-- Funções de data
-- Gráficos
-- Dashboard
-
-> Projeto em evolução, com aprofundamento em Tabelas Dinâmicas, Segmentação de Dados e Power Query.
-
----
-
-## 📝 Escritos sobre Tecnologia e Aprendizado
+Além dos projetos práticos, utilizo o LinkedIn para registrar reflexões sobre **tecnologia, qualidade, dados, requisitos e aprendizado**.
 
 ### 🔎 Um dado pode estar correto e, ainda assim, estar errado?
 
@@ -164,26 +151,45 @@ Reflexão sobre a diferença entre **consumir conteúdo e desenvolver conhecimen
 
 ### 🧪 Como descobri que gosto de testar software
 
-Relato sobre minha transição para QA, experiências com qualidade da informação, investigação de inconsistências, testes de software, APIs e uso de IA em sistemas.
+Relato sobre minha transição para QA e sobre experiências relacionadas a **qualidade da informação, investigação de inconsistências, testes de software, APIs e uso de IA em sistemas**.
 
 👉 [Ler artigo](https://www.linkedin.com/pulse/o-que-me-fez-perceber-gosto-de-testes-software-soares-da-silva-1ajsf/)
 
 ---
 
-## 📚 Atualmente estudando
+# 📚 Em Desenvolvimento
 
-- Qualidade de Software
-- Testes de API
-- Análise de Requisitos
-- SQL
-- Desenvolvimento de sistemas
-- Microsoft Excel
-- Análise de dados
-- Power Query
-- Boas práticas de documentação
+Atualmente estou aprofundando conhecimentos em:
+
+- 🧪 Qualidade de Software e testes
+- 🔗 Testes de APIs REST
+- 📋 Análise de Requisitos
+- 🗄️ SQL e bancos de dados
+- ☕ Desenvolvimento de sistemas
+- 📊 Microsoft Excel
+- 📈 Análise de dados
+- ⚙️ Power Query
+- 📝 Documentação e regras de negócio
+- 🔍 Validação e análise de cenários
 
 ---
 
-## 🚀 Em constante evolução
+# 🧠 Como estou construindo minha experiência
 
-Meu GitHub reúne projetos desenvolvidos durante minha transição para Tecnologia, com foco em **prática, aprendizado contínuo, qualidade e construção de soluções aplicadas a problemas reais de negócio**.
+Minha evolução em Tecnologia acontece principalmente por meio da **prática**.
+
+Busco transformar os conhecimentos adquiridos em projetos que envolvam:
+
+**Entender → Construir → Testar → Validar → Identificar inconsistências → Documentar → Melhorar**
+
+Essa abordagem me permite desenvolver não apenas conhecimento técnico, mas também uma visão mais ampla sobre **qualidade, processos e necessidades de negócio**.
+
+---
+
+# 🚀 Em constante evolução
+
+Este GitHub reúne projetos desenvolvidos durante minha trajetória de transição para Tecnologia, com foco em **prática, qualidade, análise e construção de soluções relacionadas a problemas de negócio**.
+
+Meu objetivo é continuar evoluindo tecnicamente e ampliar minha atuação nas áreas de **Qualidade de Software, Análise de Requisitos e Tecnologia**, conectando minha experiência profissional com novos conhecimentos e projetos.
+
+> 💡 **Tecnologia, para mim, não é apenas desenvolver uma solução. É entender o problema, validar se a solução realmente atende à necessidade e buscar formas de torná-la melhor.**
